@@ -7,7 +7,7 @@
 
 
 ## Sobre mí
-Soy un/a apasionado/a por la **tecnología y la ciberseguridad**, actualmente estudiante de [Inenieria en Ciberseguridad].  
+Soy un apasionado por la **tecnología y la ciberseguridad**, actualmente estudiante de [Inenieria en Ciberseguridad].  
 Me encanta aprender sobre **Linux, redes, programación** y todo lo relacionado con la seguridad informática.  
 Mi meta es convertirme en un profesional capaz de crear soluciones seguras y eficientes.
 
