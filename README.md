@@ -31,7 +31,7 @@ Mi meta es convertirme en un profesional capaz de crear soluciones seguras y efi
 #GitHub stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShinyHunters&theme=dracula&hide_border=verdadero&short_numbers=FALSO&mode=weekly)](https://git.io/streak-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bet4-tester)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
