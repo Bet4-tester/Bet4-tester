@@ -27,3 +27,6 @@ Mi meta es convertirme en un profesional capaz de crear soluciones seguras y efi
 
 #GitHub stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShinyHunters&theme=dracula&hide_border=verdadero&short_numbers=FALSO&mode=weekly)](https://git.io/streak-stats)
+
+
+
